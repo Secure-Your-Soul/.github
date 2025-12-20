@@ -116,17 +116,17 @@ graph LR
 ---
 <p align="left">
   <a href="https://github.com/Secure-Your-Soul/SoulAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Secure-Your-Soul&repo=SoulAPI&theme=transparent&title_color=7952b3&text_color=ffffff&icon_color=7952b3&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Secure-Your-Soul&repo=SoulAPI&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=7952b3&hide_border=true" />
   </a>
   <a href="https://github.com/Secure-Your-Soul/SoulUpdater">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Secure-Your-Soul&repo=SoulUpdater&theme=transparent&title_color=7952b3&text_color=ffffff&icon_color=7952b3&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Secure-Your-Soul&repo=SoulUpdater&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=7952b3&hide_border=true" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF000&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=60&section=footer" width="100%"/>
   <b>Secure Your Soul</b> • 2025 <br>
   <i>"Encrypting the digital self."</i>
 </p>
